@@ -84,12 +84,12 @@ clean: CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/clean
 CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\tmf8820_21_28_app_keystone_cpp.dir\build.make CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\tmf8820_21_28_app_keystone_cpp.dir\build.make CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=D:\PythonProject\tmf8820_21_28_app_keystone_cpp\build\CMakeFiles --progress-num=1,2,3,4 "Built target tmf8820_21_28_app_keystone_cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=D:\PythonProject\tmf8820_21_28_app_keystone_cpp\build\CMakeFiles --progress-num=1,2,3,4,5,6 "Built target tmf8820_21_28_app_keystone_cpp"
 .PHONY : CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\PythonProject\tmf8820_21_28_app_keystone_cpp\build\CMakeFiles 4
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\PythonProject\tmf8820_21_28_app_keystone_cpp\build\CMakeFiles 6
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\PythonProject\tmf8820_21_28_app_keystone_cpp\build\CMakeFiles 0
 .PHONY : CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/rule
@@ -101,7 +101,7 @@ tmf8820_21_28_app_keystone_cpp: CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/ru
 # codegen rule for target.
 CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\tmf8820_21_28_app_keystone_cpp.dir\build.make CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=D:\PythonProject\tmf8820_21_28_app_keystone_cpp\build\CMakeFiles --progress-num=1,2,3,4 "Finished codegen for target tmf8820_21_28_app_keystone_cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=D:\PythonProject\tmf8820_21_28_app_keystone_cpp\build\CMakeFiles --progress-num=1,2,3,4,5,6 "Finished codegen for target tmf8820_21_28_app_keystone_cpp"
 .PHONY : CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/codegen
 
 # clean rule for target.

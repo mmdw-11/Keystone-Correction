@@ -558,4 +558,5 @@ CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/main.cpp.obj: \
  D:/5.mingw-w64/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/x86_64-w64-mingw32/include/sec_api/stralign_s.h \
  D:/5.mingw-w64/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/x86_64-w64-mingw32/include/winsvc.h \
  D:/5.mingw-w64/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/x86_64-w64-mingw32/include/mcx.h \
- D:/5.mingw-w64/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/x86_64-w64-mingw32/include/imm.h
+ D:/5.mingw-w64/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/x86_64-w64-mingw32/include/imm.h \
+ D:/PythonProject/tmf8820_21_28_app_keystone_cpp/include/core/autofocus.h

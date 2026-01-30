@@ -1,6 +1,10 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/autofocus.cpp.obj"
+  "CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/autofocus.cpp.obj.d"
   "CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/engine.cpp.obj"
   "CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/engine.cpp.obj.d"
+  "CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/readbmp.cpp.obj"
+  "CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/readbmp.cpp.obj.d"
   "CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/utils.cpp.obj"
   "CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/utils.cpp.obj.d"
   "CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/main.cpp.obj"

@@ -8,7 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "D:/PythonProject/tmf8820_21_28_app_keystone_cpp/src/core/autofocus.cpp" "CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/autofocus.cpp.obj" "gcc" "CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/autofocus.cpp.obj.d"
   "D:/PythonProject/tmf8820_21_28_app_keystone_cpp/src/core/engine.cpp" "CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/engine.cpp.obj" "gcc" "CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/engine.cpp.obj.d"
+  "D:/PythonProject/tmf8820_21_28_app_keystone_cpp/src/core/readbmp.cpp" "CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/readbmp.cpp.obj" "gcc" "CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/readbmp.cpp.obj.d"
   "D:/PythonProject/tmf8820_21_28_app_keystone_cpp/src/core/utils.cpp" "CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/utils.cpp.obj" "gcc" "CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/utils.cpp.obj.d"
   "D:/PythonProject/tmf8820_21_28_app_keystone_cpp/src/main.cpp" "CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/main.cpp.obj" "gcc" "CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/main.cpp.obj.d"
   )

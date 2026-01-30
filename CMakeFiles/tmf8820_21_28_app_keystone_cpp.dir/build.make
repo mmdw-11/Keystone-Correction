@@ -71,11 +71,26 @@ include CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/flags.make
 CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/codegen:
 .PHONY : CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/codegen
 
+CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/autofocus.cpp.obj: CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/flags.make
+CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/autofocus.cpp.obj: CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/includes_CXX.rsp
+CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/autofocus.cpp.obj: D:/PythonProject/tmf8820_21_28_app_keystone_cpp/src/core/autofocus.cpp
+CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/autofocus.cpp.obj: CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\PythonProject\tmf8820_21_28_app_keystone_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/autofocus.cpp.obj"
+	D:\5.mingw-w64\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/autofocus.cpp.obj -MF CMakeFiles\tmf8820_21_28_app_keystone_cpp.dir\src\core\autofocus.cpp.obj.d -o CMakeFiles\tmf8820_21_28_app_keystone_cpp.dir\src\core\autofocus.cpp.obj -c D:\PythonProject\tmf8820_21_28_app_keystone_cpp\src\core\autofocus.cpp
+
+CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/autofocus.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/autofocus.cpp.i"
+	D:\5.mingw-w64\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\PythonProject\tmf8820_21_28_app_keystone_cpp\src\core\autofocus.cpp > CMakeFiles\tmf8820_21_28_app_keystone_cpp.dir\src\core\autofocus.cpp.i
+
+CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/autofocus.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/autofocus.cpp.s"
+	D:\5.mingw-w64\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\PythonProject\tmf8820_21_28_app_keystone_cpp\src\core\autofocus.cpp -o CMakeFiles\tmf8820_21_28_app_keystone_cpp.dir\src\core\autofocus.cpp.s
+
 CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/engine.cpp.obj: CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/flags.make
 CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/engine.cpp.obj: CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/includes_CXX.rsp
 CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/engine.cpp.obj: D:/PythonProject/tmf8820_21_28_app_keystone_cpp/src/core/engine.cpp
 CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/engine.cpp.obj: CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\PythonProject\tmf8820_21_28_app_keystone_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/engine.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\PythonProject\tmf8820_21_28_app_keystone_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/engine.cpp.obj"
 	D:\5.mingw-w64\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/engine.cpp.obj -MF CMakeFiles\tmf8820_21_28_app_keystone_cpp.dir\src\core\engine.cpp.obj.d -o CMakeFiles\tmf8820_21_28_app_keystone_cpp.dir\src\core\engine.cpp.obj -c D:\PythonProject\tmf8820_21_28_app_keystone_cpp\src\core\engine.cpp
 
 CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/engine.cpp.i: cmake_force
@@ -86,11 +101,26 @@ CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/engine.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/engine.cpp.s"
 	D:\5.mingw-w64\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\PythonProject\tmf8820_21_28_app_keystone_cpp\src\core\engine.cpp -o CMakeFiles\tmf8820_21_28_app_keystone_cpp.dir\src\core\engine.cpp.s
 
+CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/readbmp.cpp.obj: CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/flags.make
+CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/readbmp.cpp.obj: CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/includes_CXX.rsp
+CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/readbmp.cpp.obj: D:/PythonProject/tmf8820_21_28_app_keystone_cpp/src/core/readbmp.cpp
+CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/readbmp.cpp.obj: CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\PythonProject\tmf8820_21_28_app_keystone_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/readbmp.cpp.obj"
+	D:\5.mingw-w64\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/readbmp.cpp.obj -MF CMakeFiles\tmf8820_21_28_app_keystone_cpp.dir\src\core\readbmp.cpp.obj.d -o CMakeFiles\tmf8820_21_28_app_keystone_cpp.dir\src\core\readbmp.cpp.obj -c D:\PythonProject\tmf8820_21_28_app_keystone_cpp\src\core\readbmp.cpp
+
+CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/readbmp.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/readbmp.cpp.i"
+	D:\5.mingw-w64\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\PythonProject\tmf8820_21_28_app_keystone_cpp\src\core\readbmp.cpp > CMakeFiles\tmf8820_21_28_app_keystone_cpp.dir\src\core\readbmp.cpp.i
+
+CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/readbmp.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/readbmp.cpp.s"
+	D:\5.mingw-w64\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\PythonProject\tmf8820_21_28_app_keystone_cpp\src\core\readbmp.cpp -o CMakeFiles\tmf8820_21_28_app_keystone_cpp.dir\src\core\readbmp.cpp.s
+
 CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/utils.cpp.obj: CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/flags.make
 CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/utils.cpp.obj: CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/includes_CXX.rsp
 CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/utils.cpp.obj: D:/PythonProject/tmf8820_21_28_app_keystone_cpp/src/core/utils.cpp
 CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/utils.cpp.obj: CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\PythonProject\tmf8820_21_28_app_keystone_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/utils.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\PythonProject\tmf8820_21_28_app_keystone_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/utils.cpp.obj"
 	D:\5.mingw-w64\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/utils.cpp.obj -MF CMakeFiles\tmf8820_21_28_app_keystone_cpp.dir\src\core\utils.cpp.obj.d -o CMakeFiles\tmf8820_21_28_app_keystone_cpp.dir\src\core\utils.cpp.obj -c D:\PythonProject\tmf8820_21_28_app_keystone_cpp\src\core\utils.cpp
 
 CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/utils.cpp.i: cmake_force
@@ -105,7 +135,7 @@ CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/main.cpp.obj: CMakeFiles/tmf88
 CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/main.cpp.obj: CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/includes_CXX.rsp
 CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/main.cpp.obj: D:/PythonProject/tmf8820_21_28_app_keystone_cpp/src/main.cpp
 CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/main.cpp.obj: CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\PythonProject\tmf8820_21_28_app_keystone_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/main.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\PythonProject\tmf8820_21_28_app_keystone_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/main.cpp.obj"
 	D:\5.mingw-w64\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/main.cpp.obj -MF CMakeFiles\tmf8820_21_28_app_keystone_cpp.dir\src\main.cpp.obj.d -o CMakeFiles\tmf8820_21_28_app_keystone_cpp.dir\src\main.cpp.obj -c D:\PythonProject\tmf8820_21_28_app_keystone_cpp\src\main.cpp
 
 CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/main.cpp.i: cmake_force
@@ -118,14 +148,18 @@ CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/main.cpp.s: cmake_force
 
 # Object files for target tmf8820_21_28_app_keystone_cpp
 tmf8820_21_28_app_keystone_cpp_OBJECTS = \
+"CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/autofocus.cpp.obj" \
 "CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/engine.cpp.obj" \
+"CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/readbmp.cpp.obj" \
 "CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/utils.cpp.obj" \
 "CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/main.cpp.obj"
 
 # External object files for target tmf8820_21_28_app_keystone_cpp
 tmf8820_21_28_app_keystone_cpp_EXTERNAL_OBJECTS =
 
+tmf8820_21_28_app_keystone_cpp.exe: CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/autofocus.cpp.obj
 tmf8820_21_28_app_keystone_cpp.exe: CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/engine.cpp.obj
+tmf8820_21_28_app_keystone_cpp.exe: CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/readbmp.cpp.obj
 tmf8820_21_28_app_keystone_cpp.exe: CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/utils.cpp.obj
 tmf8820_21_28_app_keystone_cpp.exe: CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/main.cpp.obj
 tmf8820_21_28_app_keystone_cpp.exe: CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/build.make
@@ -147,7 +181,7 @@ tmf8820_21_28_app_keystone_cpp.exe: D:/SoftWare/opencv_final/x64/mingw/lib/libop
 tmf8820_21_28_app_keystone_cpp.exe: CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/linkLibs.rsp
 tmf8820_21_28_app_keystone_cpp.exe: CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/objects1.rsp
 tmf8820_21_28_app_keystone_cpp.exe: CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=D:\PythonProject\tmf8820_21_28_app_keystone_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable tmf8820_21_28_app_keystone_cpp.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=D:\PythonProject\tmf8820_21_28_app_keystone_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable tmf8820_21_28_app_keystone_cpp.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\tmf8820_21_28_app_keystone_cpp.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

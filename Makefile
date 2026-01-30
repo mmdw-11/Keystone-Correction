@@ -128,6 +128,30 @@ tmf8820_21_28_app_keystone_cpp/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\tmf8820_21_28_app_keystone_cpp.dir\build.make CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/build
 .PHONY : tmf8820_21_28_app_keystone_cpp/fast
 
+src/core/autofocus.obj: src/core/autofocus.cpp.obj
+.PHONY : src/core/autofocus.obj
+
+# target to build an object file
+src/core/autofocus.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\tmf8820_21_28_app_keystone_cpp.dir\build.make CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/autofocus.cpp.obj
+.PHONY : src/core/autofocus.cpp.obj
+
+src/core/autofocus.i: src/core/autofocus.cpp.i
+.PHONY : src/core/autofocus.i
+
+# target to preprocess a source file
+src/core/autofocus.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\tmf8820_21_28_app_keystone_cpp.dir\build.make CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/autofocus.cpp.i
+.PHONY : src/core/autofocus.cpp.i
+
+src/core/autofocus.s: src/core/autofocus.cpp.s
+.PHONY : src/core/autofocus.s
+
+# target to generate assembly for a file
+src/core/autofocus.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\tmf8820_21_28_app_keystone_cpp.dir\build.make CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/autofocus.cpp.s
+.PHONY : src/core/autofocus.cpp.s
+
 src/core/engine.obj: src/core/engine.cpp.obj
 .PHONY : src/core/engine.obj
 
@@ -151,6 +175,30 @@ src/core/engine.s: src/core/engine.cpp.s
 src/core/engine.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\tmf8820_21_28_app_keystone_cpp.dir\build.make CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/engine.cpp.s
 .PHONY : src/core/engine.cpp.s
+
+src/core/readbmp.obj: src/core/readbmp.cpp.obj
+.PHONY : src/core/readbmp.obj
+
+# target to build an object file
+src/core/readbmp.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\tmf8820_21_28_app_keystone_cpp.dir\build.make CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/readbmp.cpp.obj
+.PHONY : src/core/readbmp.cpp.obj
+
+src/core/readbmp.i: src/core/readbmp.cpp.i
+.PHONY : src/core/readbmp.i
+
+# target to preprocess a source file
+src/core/readbmp.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\tmf8820_21_28_app_keystone_cpp.dir\build.make CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/readbmp.cpp.i
+.PHONY : src/core/readbmp.cpp.i
+
+src/core/readbmp.s: src/core/readbmp.cpp.s
+.PHONY : src/core/readbmp.s
+
+# target to generate assembly for a file
+src/core/readbmp.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\tmf8820_21_28_app_keystone_cpp.dir\build.make CMakeFiles/tmf8820_21_28_app_keystone_cpp.dir/src/core/readbmp.cpp.s
+.PHONY : src/core/readbmp.cpp.s
 
 src/core/utils.obj: src/core/utils.cpp.obj
 .PHONY : src/core/utils.obj
@@ -209,9 +257,15 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... tmf8820_21_28_app_keystone_cpp
+	@echo ... src/core/autofocus.obj
+	@echo ... src/core/autofocus.i
+	@echo ... src/core/autofocus.s
 	@echo ... src/core/engine.obj
 	@echo ... src/core/engine.i
 	@echo ... src/core/engine.s
+	@echo ... src/core/readbmp.obj
+	@echo ... src/core/readbmp.i
+	@echo ... src/core/readbmp.s
 	@echo ... src/core/utils.obj
 	@echo ... src/core/utils.i
 	@echo ... src/core/utils.s
